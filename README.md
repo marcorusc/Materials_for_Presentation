@@ -2,7 +2,6 @@ HANDS ON: Modelling multicellular systems using a hybrid Boolean/agent-based app
 
 Softwares required:
 - MaBoSS
-- PhysiCell
 - NeKo
 
 This folder contains all the materials needed for the Hands-On session that will take place at the PRIMe institute (Osaka, Japan), including:
